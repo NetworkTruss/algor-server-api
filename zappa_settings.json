@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "venv.api.app.app",
+        "profile_name": null,
+        "project_name": "algor-server-ap",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-xdq2iic3l"
+    }
+}
