@@ -18,7 +18,7 @@ app.debug = True
 # Sign In Page
 @app.route('/')
 def home():
-	return render_template('index.html')
+	return ("hello world")
 	
 #done with upload
 data_res = []
